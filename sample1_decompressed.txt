@@ -1,0 +1,1 @@
+Hello, I am Vipul Sharma. This is an example of file compressing and decompressing file to get back original.
